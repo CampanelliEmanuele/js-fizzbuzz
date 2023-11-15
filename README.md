@@ -1,21 +1,25 @@
-- [html-css-js-template](#html-css-js-template)
-  - [Consegna base](#consegna-base)
-  - [Consegna bonus](#consegna-bonus)
-  - [Svolgimento base](#svolgimento-base)
-    - [Pagina da replicare](#pagina-da-replicare)
-    - [Analisi tecnica](#analisi-tecnica)
-    - [Risultato ottenuto](#risultato-ottenuto)
+- [js-fizzbuzz](#js-fizzbuzz)
+  - [Consegna](#consegna)
+  - [Domande da porsi](#domande-da-porsi)
+  - [Consigli](#consigli)
 
-# html-css-js-template
+# js-fizzbuzz
 
-## Consegna base
+## Consegna
 
-## Consegna bonus
+Scrivi un programma che stampi i numeri da 1 a 100, ma per i multipli di 3 stampi “Fizz” al posto del numero e per i multipli di 5 stampi Buzz.
 
-## Svolgimento base
+Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 
-### [Pagina da replicare](./img/screenshot/exercise/)
+## Domande da porsi
 
-### [Analisi tecnica](./img/screenshot/analysis/)
+Prima di partire a scrivere codice poniamoci qualche domanda:
 
-### [Risultato ottenuto](./index.html)
+- Come faccio a sapere se un numero è divisibile per?
+- Abbiamo visto qualcosa di particolare che possiamo usare?
+
+## Consigli
+
+Scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare.
+
+Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
