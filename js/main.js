@@ -1,17 +1,3 @@
-
-/*
-for x in 1 to 100
-    
-    if x divisibile per 3
-        stampa Fizz
-    
-    if x divisibile per 5
-        stampa Bizz
-
-    else
-        stampa x
-*/
-
 // Si scorrono i numeri da 1 a 100
 for (let i = 1; i <= 100; i++) {
 
